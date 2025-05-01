@@ -1,6 +1,6 @@
 ## Dictionary Operations in Python: Merging Two Dictionaries
-## NAME :S.L.NARASIMHA REDDY
-## REG NO:212223040214
+## NAME :karthikeyan M
+## REG NO:212223040088
 ## 🎯 Aim
 To write a Python program that merges **two dictionaries** and combines their key-value pairs.
 
