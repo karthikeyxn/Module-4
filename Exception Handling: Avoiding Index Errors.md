@@ -1,6 +1,6 @@
 # Exception Handling in Python: Avoiding Index Errors
-## NAME :S.L.NARASIMHA REDDY
-## REG NO:212223040214
+## NAME :karthikeyan M
+## REG NO:21222340088
 ## 🎯 Aim
 To write a Python program that handles an **IndexError** when trying to access an element beyond the available range of a list.
 
